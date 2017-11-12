@@ -1,5 +1,5 @@
 {
-  "name": "Excel in JS",
+  "name": "Excel",
   "version": "1.0.0",
   "description": "Excel simple in vanilla JS  using MVC",
   "main": "index.js",
